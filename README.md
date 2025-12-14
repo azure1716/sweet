@@ -1,13 +1,3 @@
-I cannot directly generate a downloadable `.docx` (Microsoft Word) file because I am an AI text interface.
-
-However, **this project specifically requires a `README.md` file**, not a Word document. Submitting a Word file on GitHub usually looks unprofessional and might lose you points on the "Deliverables" section of your assessment.
-
-**My Recommendation:**
-Create a file named `README.md` in your project folder and paste the content I provided in the previous step.
-
-If you absolutely **must** have a Word file (e.g., to email to a recruiter separately), you can copy and paste the text below into Microsoft Word. I have formatted it so it will look good when pasted.
-
----
 
 #Sweet Shop Management System**A full-stack Single Page Application (SPA) designed to manage the inventory, sales, and administration of a digital sweet shop. This project was built using Test-Driven Development (TDD) principles, modern web technologies, and AI-assisted workflows.**
 
