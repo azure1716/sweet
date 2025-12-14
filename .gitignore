@@ -1,0 +1,13 @@
+# Ignore dependencies
+node_modules/
+client/node_modules/
+
+# Ignore secrets
+.env
+
+# Ignore build files
+dist/
+client/dist/
+
+# Ignore system files
+.DS_Store
